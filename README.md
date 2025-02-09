@@ -4,5 +4,4 @@ This project demonstrates the use of the Flux architecture in a React applicatio
 
 # See on live here ⬇
 
-[DEMO LIVE]()
-
+[DEMO LIVE](https://franciscoyuster.github.io/Flux-Example/)
